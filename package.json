@@ -1,0 +1,37 @@
+{
+	"name": "artoo-interpol",
+	"version": "0.0.1",
+	"description": "A little artoo.js bookmarklet to scrape and download the wanted or missing person lists from Interpol.",
+	"main": "./index",
+	"keywords": [
+		"scraper",
+		"spider",
+		"interpol",
+		"data"
+	],
+	"homepage": "https://github.com/icij/artoo-interpol",
+	"contributors": [
+		{
+			"name": "Matthew Caruana Galizia",
+			"email": "mcaruana@icij.org"
+		}
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/icij/artoo-interpol.git"
+	},
+	"bugs": {
+		"url": "https://github.com/icij/artoo-interpol/issues"
+	},
+	"licenses": [
+		{
+			"type": "MIT"
+		}
+	],
+	"dependencies": {
+		"gulp": "~3.8.10",
+		"gulp-uglify": "~1.0.1",
+		"gulp-artoo": "0.1.0",
+		"gulp-rename": "~1.2.0"
+	}
+}
