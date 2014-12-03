@@ -6,4 +6,4 @@ Run `make` or `gulp` to build.
 
 ## Credits ##
 
-[Matthew Caruana Galizia](https://twitter.com/mcaruanagalizia) <mcaruana@icij.org>
+[Matthew Caruana Galizia](https://twitter.com/mcaruanagalizia), mcaruana@icij.org
