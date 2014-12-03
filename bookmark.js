@@ -27,11 +27,7 @@
 			},
 			url: {
 				sel: '.links a.details',
-				method: function($) {
-
-					// Get the full URL.
-					return this.href;
-				}
+				attr: 'href'
 			}
 		}
 	};
